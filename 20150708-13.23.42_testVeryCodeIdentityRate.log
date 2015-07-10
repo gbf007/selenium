@@ -1,0 +1,294 @@
+2015-07-08 13:23:46,710 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:23:46,710 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:46,755 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:23:46,756 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:46,780 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:23:46,780 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:46,821 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:23:46,821 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:47,700 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:23:47,700 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:47,943 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:23:48,042 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:23:48,392 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:23:48,394 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:48,434 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "2854" by_id{ "checkCode" }
+2015-07-08 13:23:48,434 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:48,463 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:23:48,463 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:48,463 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:23:48,529 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:48,530 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:48,546 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:23:49,168 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:23:49,170 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:23:49,204 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:23:49,206 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:49,206 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:23:49,252 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:49,252 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:49,601 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:23:49,602 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:49,644 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:23:49,644 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:49,665 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:23:49,667 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:49,704 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:23:49,706 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:50,586 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:23:50,586 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:50,653 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:23:50,753 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:23:51,085 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:23:51,085 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:51,121 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "2406" by_id{ "checkCode" }
+2015-07-08 13:23:51,121 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:51,153 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:23:51,154 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:51,154 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:23:51,214 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:51,214 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:51,230 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:23:51,759 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:23:51,759 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:23:51,795 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:23:51,795 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:51,795 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:23:51,861 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:51,861 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:52,193 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:23:52,193 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:52,234 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:23:52,234 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:52,259 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:23:52,259 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:52,296 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:23:52,296 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:53,382 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:23:53,382 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:53,453 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:23:53,553 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:23:53,882 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:23:53,882 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:53,937 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "9343" by_id{ "checkCode" }
+2015-07-08 13:23:53,937 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:53,971 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:23:53,971 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:53,971 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:23:54,033 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:54,033 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:54,061 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:23:54,642 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:23:54,642 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:23:54,681 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:23:54,681 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:54,681 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:23:54,733 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:54,733 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:55,081 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:23:55,081 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:55,121 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:23:55,121 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:55,144 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:23:55,144 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:55,184 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:23:55,186 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:56,065 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:23:56,065 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:56,137 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:23:56,236 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:23:56,535 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:23:56,535 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:56,584 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "7003" by_id{ "checkCode" }
+2015-07-08 13:23:56,584 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:56,615 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:23:56,617 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:56,617 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:23:56,684 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:56,684 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:56,700 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:23:57,278 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:23:57,278 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:23:57,311 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:23:57,311 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:57,311 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:23:57,365 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:57,365 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:57,746 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:23:57,746 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:57,795 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:23:57,795 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:57,815 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:23:57,815 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:57,854 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:23:57,854 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:58,727 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:23:58,727 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:58,799 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:23:58,898 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:23:59,226 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:23:59,226 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:59,269 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "3938" by_id{ "checkCode" }
+2015-07-08 13:23:59,269 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:23:59,299 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:23:59,299 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:23:59,299 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:23:59,362 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:23:59,362 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:23:59,378 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:24:00,003 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:24:00,003 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:24:00,036 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:24:00,036 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:00,036 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:24:00,082 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:00,082 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:00,411 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:24:00,411 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:00,447 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:24:00,448 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:00,470 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:24:00,470 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:00,512 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:24:00,512 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:01,392 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:24:01,394 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:01,464 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:24:01,565 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:24:01,867 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:24:01,867 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:01,911 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "3044" by_id{ "checkCode" }
+2015-07-08 13:24:01,911 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:01,944 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:24:01,944 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:01,944 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:24:02,006 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:02,006 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:02,023 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:24:02,556 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:24:02,556 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:24:02,653 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:24:02,653 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:02,653 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:24:02,717 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:02,717 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:02,967 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:24:02,967 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:03,013 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:24:03,013 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:03,038 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:24:03,038 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:03,081 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:24:03,081 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:03,967 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:24:03,967 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:04,072 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:24:04,173 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:24:04,509 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:24:04,509 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:04,559 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "5364" by_id{ "checkCode" }
+2015-07-08 13:24:04,559 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:04,598 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:24:04,598 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:04,598 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:24:04,674 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:04,674 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:04,828 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:24:05,357 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:1
+2015-07-08 13:24:05,857 WebdriverBaseApi.py[line:48] ERROR - isTextPresent 【运行失败!!!】
+2015-07-08 13:24:05,891 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-08 13:24:05,891 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:05,903 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 请输入正确的验证码！ ]
+2015-07-08 13:24:05,904 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-08 13:24:05,930 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '确')]" } 存在.
+2015-07-08 13:24:05,930 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:05,930 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '确')]" }
+2015-07-08 13:24:05,990 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:05,990 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:06,010 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:24:06,010 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:06,065 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:24:06,065 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:06,085 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:24:06,085 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:06,273 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:24:06,273 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:07,167 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:24:07,167 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:07,236 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:24:07,338 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:24:07,635 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:24:07,635 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:07,677 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "9609" by_id{ "checkCode" }
+2015-07-08 13:24:07,677 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:07,709 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:24:07,709 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:07,709 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:24:07,769 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:07,769 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:07,792 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:24:08,361 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:24:08,362 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:24:08,395 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:24:08,397 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:08,397 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:24:08,447 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:08,447 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:08,786 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:24:08,786 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:08,828 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:24:08,828 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:08,851 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:24:08,851 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:08,888 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:24:08,888 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:09,762 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:24:09,762 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:09,822 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:24:09,924 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:24:10,242 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:24:10,242 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:10,292 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "8917" by_id{ "checkCode" }
+2015-07-08 13:24:10,292 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:10,339 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:24:10,339 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:10,339 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:24:10,845 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:10,845 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:10,862 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:24:11,398 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:24:11,398 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:24:11,431 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:24:11,431 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:11,431 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:24:11,500 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:11,500 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:11,838 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-08 13:24:11,838 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:11,882 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-08 13:24:11,882 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:11,908 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-08 13:24:11,908 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:11,947 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-08 13:24:11,947 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:12,855 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-08 13:24:12,855 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:12,933 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-08 13:24:13,032 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-08 13:24:13,348 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-08 13:24:13,348 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:13,390 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "0219" by_id{ "checkCode" }
+2015-07-08 13:24:13,390 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-08 13:24:13,424 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-08 13:24:13,424 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:13,426 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-08 13:24:13,486 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:13,486 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-08 13:24:13,512 WebdriverBaseApi.py[line:585] DEBUG - isTextPresent {"安全退出" } 不存在!!!, try times:0
+2015-07-08 13:24:14,061 WebdriverBaseApi.py[line:580] DEBUG - isTextPresent {"安全退出" } 存在.
+2015-07-08 13:24:14,061 WebdriverBaseApi.py[line:42] INFO  - method 【isTextPresent】 运行通过.
+2015-07-08 13:24:14,096 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-08 13:24:14,096 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-08 13:24:14,096 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "安全退出" }
+2015-07-08 13:24:14,148 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-08 13:24:14,148 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.

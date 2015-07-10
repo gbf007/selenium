@@ -1,0 +1,1006 @@
+2015-07-07 15:00:25,368 browser.py[line:14] DEBUG - browser : firefox
+2015-07-07 15:00:29,808 WebdriverBaseApi.py[line:234] DEBUG - setWindowsSize width=1400, height=800
+2015-07-07 15:00:29,808 WebdriverBaseApi.py[line:42] INFO  - method 【setWindowsSize】 运行通过.
+2015-07-07 15:00:29,828 WebdriverBaseApi.py[line:271] DEBUG - setWindowsPosition x=80, y=0
+2015-07-07 15:00:29,828 WebdriverBaseApi.py[line:42] INFO  - method 【setWindowsPosition】 运行通过.
+2015-07-07 15:00:29,831 reset.py[line:40] DEBUG ===============================  setUp  =======================================
+2015-07-07 15:00:31,186 WebdriverBaseApi.py[line:93] DEBUG - get(http://192.168.2.131:18004/otpcenter/login/login.jsp?outof=false#/)
+2015-07-07 15:00:31,186 WebdriverBaseApi.py[line:42] INFO  - method 【get】 运行通过.
+2015-07-07 15:00:31,240 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-07 15:00:31,240 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:31,255 WebdriverBaseApi.py[line:1080] DEBUG - element is Displayed
+2015-07-07 15:00:31,279 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "langSel" } 存在.
+2015-07-07 15:00:31,279 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:31,311 WebdriverBaseApi.py[line:1234] DEBUG - selectByValueBy "zh_CN" by_id{ "langSel" }
+2015-07-07 15:00:31,311 WebdriverBaseApi.py[line:42] INFO  - method 【selectByValueBy】 运行通过.
+2015-07-07 15:00:31,334 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-07 15:00:31,334 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:31,381 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-07 15:00:31,381 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:00:31,405 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//*[@id='password']/ancestor::td/preceding-sibling::td[1]" } 存在.
+2015-07-07 15:00:31,407 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:31,420 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[  ]
+2015-07-07 15:00:31,420 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:00:31,443 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-07 15:00:31,443 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:31,489 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-07 15:00:31,489 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:00:31,519 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//*[@id='userId']/ancestor::td/preceding-sibling::td[1]" } 存在.
+2015-07-07 15:00:31,519 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:33,591 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[  ]
+2015-07-07 15:00:33,591 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:00:34,470 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-07 15:00:34,470 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:34,650 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-07 15:00:34,750 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-07 15:00:35,078 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-07 15:00:35,078 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:35,121 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "2553" by_id{ "checkCode" }
+2015-07-07 15:00:35,121 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:00:35,154 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-07 15:00:35,154 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:35,154 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-07 15:00:35,216 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:00:35,216 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:00:35,217 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:00:35,338 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'complete'
+2015-07-07 15:00:35,437 WebdriverBaseApi.py[line:42] INFO  - method 【waitForPageLoad】 运行通过.
+2015-07-07 15:00:36,013 WebdriverBaseApi.py[line:520] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 不存在!!!, try times:0
+2015-07-07 15:00:36,513 WebdriverBaseApi.py[line:48] ERROR - isElementPresentTuple 【运行失败!!!】
+2015-07-07 15:00:36,513 WebdriverBaseApi.py[line:1093] DEBUG - element is not found. timeout=1
+2015-07-07 15:00:36,529 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:00:36,529 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:00:36,551 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:00:36,551 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:36,559 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 用户名或密码输入错误！ ]
+2015-07-07 15:00:36,559 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:00:36,585 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '确')]" } 存在.
+2015-07-07 15:00:36,585 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:36,585 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '确')]" }
+2015-07-07 15:00:36,645 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:00:36,645 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:00:36,647 reset.py[line:40] DEBUG ===============================  setUp  =======================================
+2015-07-07 15:00:36,654 WebdriverBaseApi.py[line:93] DEBUG - get(http://192.168.2.131:18004/otpcenter/login/login.jsp?outof=false#/)
+2015-07-07 15:00:36,654 WebdriverBaseApi.py[line:42] INFO  - method 【get】 运行通过.
+2015-07-07 15:00:36,691 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-07 15:00:36,691 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:36,703 WebdriverBaseApi.py[line:1080] DEBUG - element is Displayed
+2015-07-07 15:00:36,721 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "langSel" } 存在.
+2015-07-07 15:00:36,721 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:36,747 WebdriverBaseApi.py[line:1234] DEBUG - selectByValueBy "zh_CN" by_id{ "langSel" }
+2015-07-07 15:00:36,747 WebdriverBaseApi.py[line:42] INFO  - method 【selectByValueBy】 运行通过.
+2015-07-07 15:00:36,773 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "password" } 存在.
+2015-07-07 15:00:36,773 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:36,828 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "1234" by_id{ "password" }
+2015-07-07 15:00:36,828 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:00:36,869 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//*[@id='password']/ancestor::td/preceding-sibling::td[1]" } 存在.
+2015-07-07 15:00:36,869 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:36,881 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[  ]
+2015-07-07 15:00:36,881 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:00:36,900 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "userId" } 存在.
+2015-07-07 15:00:36,900 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:36,950 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "guobaifeng" by_id{ "userId" }
+2015-07-07 15:00:36,950 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:00:36,971 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//*[@id='userId']/ancestor::td/preceding-sibling::td[1]" } 存在.
+2015-07-07 15:00:36,971 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:36,980 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[  ]
+2015-07-07 15:00:36,980 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:00:37,858 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "validateCode" } 存在.
+2015-07-07 15:00:37,858 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:37,930 WebdriverBaseApi.py[line:697] DEBUG - clickRightBy by_id{ "validateCode" }
+2015-07-07 15:00:38,029 WebdriverBaseApi.py[line:42] INFO  - method 【clickRightBy】 运行通过.
+2015-07-07 15:00:38,322 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "checkCode" } 存在.
+2015-07-07 15:00:38,322 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:38,362 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "2143" by_id{ "checkCode" }
+2015-07-07 15:00:38,362 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:00:38,398 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "登 录" } 存在.
+2015-07-07 15:00:38,400 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:38,400 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "登 录" }
+2015-07-07 15:00:38,470 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:00:38,470 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:00:38,470 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:00:38,476 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'complete'
+2015-07-07 15:00:38,576 WebdriverBaseApi.py[line:42] INFO  - method 【waitForPageLoad】 运行通过.
+2015-07-07 15:00:39,005 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "安全退出" } 存在.
+2015-07-07 15:00:39,005 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:39,117 WebdriverBaseApi.py[line:1080] DEBUG - element is Displayed
+2015-07-07 15:00:40,118 reset.py[line:57] DEBUG 
+
+============================================================================
+                test_batch_delete_token: 测试--批量删除令牌
+============================================================================
+2015-07-07 15:00:40,128 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:00:40,128 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:00:40,148 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/a/span[contains(text(),'令牌管理')]" } 已找到
+2015-07-07 15:00:40,148 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:00:40,168 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:00:41,368 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:00:41,403 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/div/descendant::span[contains(text(),'令牌列表')]" } 已找到
+2015-07-07 15:00:41,404 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:00:41,440 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:00:42,641 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:00:42,641 WebdriverBaseApi.py[line:711] DEBUG - jsExecuter{ "arguments[0].click();" }
+2015-07-07 15:00:42,747 WebdriverBaseApi.py[line:667] DEBUG - moveByOffset(200, 400, 0)
+2015-07-07 15:00:42,848 WebdriverBaseApi.py[line:42] INFO  - method 【moveByOffset】 运行通过.
+2015-07-07 15:00:42,917 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:00:42,917 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:00:43,029 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "0300" }
+2015-07-07 15:00:43,029 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:00:43,178 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_partial_link_text{ "查 询" } 存在.
+2015-07-07 15:00:43,178 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:43,203 WebdriverBaseApi.py[line:1080] DEBUG - element is Displayed
+2015-07-07 15:00:43,236 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "logoutState" } 存在.
+2015-07-07 15:00:43,236 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:43,305 WebdriverBaseApi.py[line:1053] DEBUG - element is Displayed
+2015-07-07 15:00:43,313 WebdriverBaseApi.py[line:930] DEBUG - getTagName[ select ]
+2015-07-07 15:00:43,313 WebdriverBaseApi.py[line:42] INFO  - method 【getTagName】 运行通过.
+2015-07-07 15:00:43,332 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "logoutState" } 存在.
+2015-07-07 15:00:43,332 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:43,362 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_xpath{ "//select[@id='logoutState']/option" } 已找到
+2015-07-07 15:00:43,862 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:00:43,871 WebdriverBaseApi.py[line:960] DEBUG - getText[ 全 部 ]
+2015-07-07 15:00:43,871 WebdriverBaseApi.py[line:42] INFO  - method 【getText】 运行通过.
+2015-07-07 15:00:43,878 WebdriverBaseApi.py[line:960] DEBUG - getText[ 已作废 ]
+2015-07-07 15:00:43,878 WebdriverBaseApi.py[line:42] INFO  - method 【getText】 运行通过.
+2015-07-07 15:00:43,940 WebdriverBaseApi.py[line:749] DEBUG - click element
+2015-07-07 15:00:43,940 WebdriverBaseApi.py[line:42] INFO  - method 【click】 运行通过.
+2015-07-07 15:00:43,940 WebdriverBaseApi.py[line:1289] DEBUG - selectByPartialTextBy "已作废" by_id{ "logoutState" }
+2015-07-07 15:00:43,940 WebdriverBaseApi.py[line:42] INFO  - method 【selectByPartialTextBy】 运行通过.
+2015-07-07 15:00:43,960 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//*[@id='logoutState']/ancestor::td/preceding-sibling::td[1]" } 存在.
+2015-07-07 15:00:43,960 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:43,967 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 作废状态： ]
+2015-07-07 15:00:43,969 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:00:43,994 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "查 询" } 存在.
+2015-07-07 15:00:43,994 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:43,994 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "查 询" }
+2015-07-07 15:00:44,086 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:00:44,586 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:00:45,099 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_xpath{ "//span[@class='l-bar-text']" } 已找到
+2015-07-07 15:00:45,599 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:00:45,608 WebdriverBaseApi.py[line:1053] DEBUG - element is Displayed
+2015-07-07 15:00:45,608 WebdriverBaseApi.py[line:1565] DEBUG - findUniqueDisplayedElementby_xpath = { "//span[@class='l-bar-text']" } 已找到
+2015-07-07 15:00:45,615 WebdriverBaseApi.py[line:960] DEBUG - getText[ 从 0 到 0   总计 0 条 ]
+2015-07-07 15:00:45,615 WebdriverBaseApi.py[line:42] INFO  - method 【getText】 运行通过.
+2015-07-07 15:00:45,615 reset.py[line:62] DEBUG ================================  tearDown...  ================================
+2015-07-07 15:00:46,503 WebdriverBaseApi.py[line:159] DEBUG - refresh
+2015-07-07 15:00:46,503 WebdriverBaseApi.py[line:42] INFO  - method 【refresh】 运行通过.
+2015-07-07 15:00:46,503 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:00:46,513 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'complete'
+2015-07-07 15:00:46,614 WebdriverBaseApi.py[line:42] INFO  - method 【waitForPageLoad】 运行通过.
+2015-07-07 15:00:46,628 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:00:46,630 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:00:47,730 reset.py[line:57] DEBUG 
+
+============================================================================
+                test_batch_delete_all_user: 测试--批量删除所有用户
+============================================================================
+2015-07-07 15:00:47,755 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:00:47,756 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:00:47,789 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/a/span[contains(text(),'用户管理')]" } 已找到
+2015-07-07 15:00:47,789 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:00:47,826 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:00:49,028 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:00:49,088 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/div/descendant::span[contains(text(),'用户列表')]" } 已找到
+2015-07-07 15:00:49,088 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:00:49,118 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:00:50,319 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:00:50,319 WebdriverBaseApi.py[line:711] DEBUG - jsExecuter{ "arguments[0].click();" }
+2015-07-07 15:00:50,720 WebdriverBaseApi.py[line:667] DEBUG - moveByOffset(200, 400, 0)
+2015-07-07 15:00:50,821 WebdriverBaseApi.py[line:42] INFO  - method 【moveByOffset】 运行通过.
+2015-07-07 15:00:50,855 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:00:50,855 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:00:50,976 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "0200" }
+2015-07-07 15:00:50,976 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:00:51,232 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_partial_link_text{ "查 询" } 存在.
+2015-07-07 15:00:51,232 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:51,244 WebdriverBaseApi.py[line:1080] DEBUG - element is Displayed
+2015-07-07 15:00:51,286 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "查 询" } 存在.
+2015-07-07 15:00:51,286 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:51,286 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "查 询" }
+2015-07-07 15:00:51,364 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:00:51,864 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:00:52,381 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_xpath{ "//span[@class='l-bar-text']" } 已找到
+2015-07-07 15:00:52,882 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:00:52,891 WebdriverBaseApi.py[line:1053] DEBUG - element is Displayed
+2015-07-07 15:00:52,891 WebdriverBaseApi.py[line:1565] DEBUG - findUniqueDisplayedElementby_xpath = { "//span[@class='l-bar-text']" } 已找到
+2015-07-07 15:00:52,898 WebdriverBaseApi.py[line:960] DEBUG - getText[ 从 1 到 4   总计 4 条 ]
+2015-07-07 15:00:52,900 WebdriverBaseApi.py[line:42] INFO  - method 【getText】 运行通过.
+2015-07-07 15:00:52,920 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "operObj" } 存在.
+2015-07-07 15:00:52,921 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:53,019 WebdriverBaseApi.py[line:1265] DEBUG - selectByVisibleTextBy "本次查询所有记录" by_id{ "operObj" }
+2015-07-07 15:00:53,019 WebdriverBaseApi.py[line:42] INFO  - method 【selectByVisibleTextBy】 运行通过.
+2015-07-07 15:00:53,039 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "oper" } 存在.
+2015-07-07 15:00:53,039 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:53,200 WebdriverBaseApi.py[line:1265] DEBUG - selectByVisibleTextBy "删除" by_id{ "oper" }
+2015-07-07 15:00:53,200 WebdriverBaseApi.py[line:42] INFO  - method 【selectByVisibleTextBy】 运行通过.
+2015-07-07 15:00:53,236 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "执 行" } 存在.
+2015-07-07 15:00:53,236 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:53,236 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "执 行" }
+2015-07-07 15:00:53,351 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:00:53,851 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:00:53,868 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:00:53,868 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:00:53,894 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:00:53,894 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:53,894 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:00:53,957 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:00:54,056 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:00:54,072 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:00:54,072 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:00:54,095 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:00:54,096 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:54,105 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 操作成功！ ]
+2015-07-07 15:00:54,105 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:00:54,131 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '操作成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:00:54,131 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:00:54,132 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '操作成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:00:54,193 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:00:54,292 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:00:54,292 reset.py[line:62] DEBUG ================================  tearDown...  ================================
+2015-07-07 15:00:55,131 WebdriverBaseApi.py[line:159] DEBUG - refresh
+2015-07-07 15:00:55,131 WebdriverBaseApi.py[line:42] INFO  - method 【refresh】 运行通过.
+2015-07-07 15:00:55,131 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:00:55,140 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'complete'
+2015-07-07 15:00:55,240 WebdriverBaseApi.py[line:42] INFO  - method 【waitForPageLoad】 运行通过.
+2015-07-07 15:00:55,259 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:00:55,259 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:00:56,358 reset.py[line:57] DEBUG 
+
+============================================================================
+                test_delete_all_administrators: 测试--删除所有管理员
+============================================================================
+2015-07-07 15:00:56,384 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:00:56,384 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:00:56,411 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/a/span[contains(text(),'管理员')]" } 已找到
+2015-07-07 15:00:56,411 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:00:56,434 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:00:57,634 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:00:57,667 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/div/descendant::span[contains(text(),'管理员')]" } 已找到
+2015-07-07 15:00:57,667 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:00:57,703 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:00:58,904 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:00:58,936 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/div/descendant::span[contains(text(),'管理员列表')]" } 已找到
+2015-07-07 15:00:58,936 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:00:58,973 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:01:00,173 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:01:00,174 WebdriverBaseApi.py[line:711] DEBUG - jsExecuter{ "arguments[0].click();" }
+2015-07-07 15:01:00,453 WebdriverBaseApi.py[line:667] DEBUG - moveByOffset(200, 400, 0)
+2015-07-07 15:01:00,555 WebdriverBaseApi.py[line:42] INFO  - method 【moveByOffset】 运行通过.
+2015-07-07 15:01:00,608 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "0100" }
+2015-07-07 15:01:00,608 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:00,934 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:00,934 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:01,062 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//span[@class='text_Bai_Se'][contains(text(), '欢迎您')]" } 存在.
+2015-07-07 15:01:01,062 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:01,082 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 欢迎您【guobaifeng】 ]
+2015-07-07 15:01:01,082 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:01,099 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "0100" }
+2015-07-07 15:01:01,099 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:01,216 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_xpath{ "//div[@class='l-panel-bbar-inner']/descendant::span[@class='pcontrol']/span" } 已找到
+2015-07-07 15:01:01,716 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:01:01,730 WebdriverBaseApi.py[line:1053] DEBUG - element is Displayed
+2015-07-07 15:01:01,732 WebdriverBaseApi.py[line:1565] DEBUG - findUniqueDisplayedElementby_xpath = { "//div[@class='l-panel-bbar-inner']/descendant::span[@class='pcontrol']/span" } 已找到
+2015-07-07 15:01:01,746 WebdriverBaseApi.py[line:960] DEBUG - getText[ 1 ]
+2015-07-07 15:01:01,746 WebdriverBaseApi.py[line:42] INFO  - method 【getText】 运行通过.
+2015-07-07 15:01:01,767 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_xpath{ "//div[@class='l-grid-hd-cell-text l-grid-hd-cell-btn-checkbox']" } 已找到
+2015-07-07 15:01:02,267 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:01:02,283 WebdriverBaseApi.py[line:1053] DEBUG - element is Displayed
+2015-07-07 15:01:02,283 WebdriverBaseApi.py[line:1565] DEBUG - findUniqueDisplayedElementby_xpath = { "//div[@class='l-grid-hd-cell-text l-grid-hd-cell-btn-checkbox']" } 已找到
+2015-07-07 15:01:02,349 WebdriverBaseApi.py[line:749] DEBUG - click element
+2015-07-07 15:01:02,450 WebdriverBaseApi.py[line:42] INFO  - method 【click】 运行通过.
+2015-07-07 15:01:02,562 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "guobaifeng" } 存在.
+2015-07-07 15:01:02,562 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:02,571 WebdriverBaseApi.py[line:1080] DEBUG - element is Displayed
+2015-07-07 15:01:02,598 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//span[@class='l-grid-hd-cell-text'][text()='管理员账号']/parent::div/parent::td" } 存在.
+2015-07-07 15:01:02,598 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:02,605 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: columnindex = [ 1 ]
+2015-07-07 15:01:02,605 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:02,631 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@id='body2']/descendant::tr/td[1]/div/a[text()='guobaifeng']/parent::div" } 存在.
+2015-07-07 15:01:02,631 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:02,631 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@id='body2']/descendant::tr/td[1]/div/a[text()='guobaifeng']/parent::div" }
+2015-07-07 15:01:02,691 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:02,891 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:02,926 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删 除" } 存在.
+2015-07-07 15:01:02,926 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:02,926 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删 除" }
+2015-07-07 15:01:03,006 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:03,506 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:03,526 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:03,526 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:03,548 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:03,548 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:03,548 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:03,608 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:03,707 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:03,723 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:03,723 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:03,762 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:03,762 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:03,772 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:03,772 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:03,799 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:03,799 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:03,799 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:03,861 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:03,961 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:03,961 reset.py[line:62] DEBUG ================================  tearDown...  ================================
+2015-07-07 15:01:04,861 WebdriverBaseApi.py[line:159] DEBUG - refresh
+2015-07-07 15:01:04,861 WebdriverBaseApi.py[line:42] INFO  - method 【refresh】 运行通过.
+2015-07-07 15:01:04,861 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:01:04,869 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'complete'
+2015-07-07 15:01:04,970 WebdriverBaseApi.py[line:42] INFO  - method 【waitForPageLoad】 运行通过.
+2015-07-07 15:01:04,996 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:04,996 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:06,098 reset.py[line:57] DEBUG 
+
+============================================================================
+                test_delete_all_role: 测试--删除所有管理员角色
+============================================================================
+2015-07-07 15:01:06,119 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:06,121 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:06,148 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/a/span[contains(text(),'管理员')]" } 已找到
+2015-07-07 15:01:06,148 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:01:06,180 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:01:07,381 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:01:07,450 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/div/descendant::span[contains(text(),'管理员角色')]" } 已找到
+2015-07-07 15:01:07,450 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:01:07,480 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:01:08,680 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:01:08,721 WebdriverBaseApi.py[line:1474] DEBUG - find_element_by_xpath{ "//li/div/descendant::span[contains(text(),'角色列表')]" } 已找到
+2015-07-07 15:01:08,723 WebdriverBaseApi.py[line:42] INFO  - method 【findElement】 运行通过.
+2015-07-07 15:01:08,763 WebdriverBaseApi.py[line:635] DEBUG - moveToElement
+2015-07-07 15:01:09,964 WebdriverBaseApi.py[line:42] INFO  - method 【moveToElement】 运行通过.
+2015-07-07 15:01:09,964 WebdriverBaseApi.py[line:711] DEBUG - jsExecuter{ "arguments[0].click();" }
+2015-07-07 15:01:10,244 WebdriverBaseApi.py[line:667] DEBUG - moveByOffset(200, 400, 0)
+2015-07-07 15:01:10,345 WebdriverBaseApi.py[line:42] INFO  - method 【moveByOffset】 运行通过.
+2015-07-07 15:01:10,365 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "0102" }
+2015-07-07 15:01:10,365 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:10,723 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_name{ "rp" } 已找到
+2015-07-07 15:01:11,223 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:01:11,236 WebdriverBaseApi.py[line:1053] DEBUG - element is Displayed
+2015-07-07 15:01:11,236 WebdriverBaseApi.py[line:1565] DEBUG - findUniqueDisplayedElementby_name = { "rp" } 已找到
+2015-07-07 15:01:11,329 WebdriverBaseApi.py[line:1248] DEBUG - selectByVisibleText "50"
+2015-07-07 15:01:11,329 WebdriverBaseApi.py[line:42] INFO  - method 【selectByVisibleText】 运行通过.
+2015-07-07 15:01:11,342 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_xpath{ "//div[@class='l-panel-bbar-inner']/descendant::span[@class='pcontrol']/span" } 已找到
+2015-07-07 15:01:11,842 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:01:11,855 WebdriverBaseApi.py[line:1053] DEBUG - element is Displayed
+2015-07-07 15:01:11,855 WebdriverBaseApi.py[line:1565] DEBUG - findUniqueDisplayedElementby_xpath = { "//div[@class='l-panel-bbar-inner']/descendant::span[@class='pcontrol']/span" } 已找到
+2015-07-07 15:01:11,862 WebdriverBaseApi.py[line:960] DEBUG - getText[ 1 ]
+2015-07-07 15:01:11,862 WebdriverBaseApi.py[line:42] INFO  - method 【getText】 运行通过.
+2015-07-07 15:01:11,878 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_xpath{ "//div[@class='l-grid-hd-cell-text l-grid-hd-cell-btn-checkbox']" } 已找到
+2015-07-07 15:01:12,378 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:01:12,394 WebdriverBaseApi.py[line:1053] DEBUG - element is Displayed
+2015-07-07 15:01:12,395 WebdriverBaseApi.py[line:1565] DEBUG - findUniqueDisplayedElementby_xpath = { "//div[@class='l-grid-hd-cell-text l-grid-hd-cell-btn-checkbox']" } 已找到
+2015-07-07 15:01:12,464 WebdriverBaseApi.py[line:749] DEBUG - click element
+2015-07-07 15:01:12,565 WebdriverBaseApi.py[line:42] INFO  - method 【click】 运行通过.
+2015-07-07 15:01:12,607 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//span[@class='l-grid-hd-cell-text'][text()='角色名称']/parent::div/parent::td" } 存在.
+2015-07-07 15:01:12,607 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:12,615 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: columnindex = [ 1 ]
+2015-07-07 15:01:12,615 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:12,641 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@id='body2']/descendant::tr/td[1]/div/a[text()='poweradmin']/parent::div" } 存在.
+2015-07-07 15:01:12,641 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:12,641 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@id='body2']/descendant::tr/td[1]/div/a[text()='poweradmin']/parent::div" }
+2015-07-07 15:01:12,703 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:12,903 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:12,947 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删 除" } 存在.
+2015-07-07 15:01:12,947 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:12,947 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删 除" }
+2015-07-07 15:01:13,026 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:13,526 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:13,549 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:13,549 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:13,579 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:13,579 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:13,579 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:13,641 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:13,742 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:13,884 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:13,884 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:13,917 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:13,917 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:13,928 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:13,928 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:13,957 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:13,957 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:13,957 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:14,019 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:14,118 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:14,119 reset.py[line:62] DEBUG ================================  tearDown...  ================================
+2015-07-07 15:01:15,046 WebdriverBaseApi.py[line:159] DEBUG - refresh
+2015-07-07 15:01:15,046 WebdriverBaseApi.py[line:42] INFO  - method 【refresh】 运行通过.
+2015-07-07 15:01:15,048 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:01:15,055 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'complete'
+2015-07-07 15:01:15,154 WebdriverBaseApi.py[line:42] INFO  - method 【waitForPageLoad】 运行通过.
+2015-07-07 15:01:15,174 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:15,174 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:16,275 reset.py[line:57] DEBUG 
+
+============================================================================
+                test_delete_all_org: 测试--删除所有机构
+============================================================================
+2015-07-07 15:01:16,302 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:16,302 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:16,351 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:16,351 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:16,351 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:16,430 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:16,530 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:16,650 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:16,650 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:16,957 WebdriverBaseApi.py[line:1507] DEBUG - find_elements_by_xpath{ "//li[@treedataindex]" } 已找到
+2015-07-07 15:01:17,457 WebdriverBaseApi.py[line:42] INFO  - method 【findElements】 运行通过.
+2015-07-07 15:01:17,457 WebdriverBaseApi.py[line:1540] DEBUG - getNumberOfElements by_xpath{ "//li[@treedataindex]" }: 10
+2015-07-07 15:01:17,457 WebdriverBaseApi.py[line:42] INFO  - method 【getNumberOfElements】 运行通过.
+2015-07-07 15:01:17,489 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='9']" } 存在.
+2015-07-07 15:01:17,489 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,509 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 3 ]
+2015-07-07 15:01:17,509 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:17,536 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='9']/div/span" } 存在.
+2015-07-07 15:01:17,536 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,562 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 产品部1 ]
+2015-07-07 15:01:17,562 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:17,584 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='8']" } 存在.
+2015-07-07 15:01:17,584 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,589 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 2 ]
+2015-07-07 15:01:17,589 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:17,628 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='8']/div/span" } 存在.
+2015-07-07 15:01:17,628 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,638 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 产品部 ]
+2015-07-07 15:01:17,638 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:17,658 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='7']" } 存在.
+2015-07-07 15:01:17,658 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,664 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 3 ]
+2015-07-07 15:01:17,665 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:17,684 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='7']/div/span" } 存在.
+2015-07-07 15:01:17,684 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,703 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 开发部3 ]
+2015-07-07 15:01:17,703 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:17,750 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='6']" } 存在.
+2015-07-07 15:01:17,750 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,756 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 3 ]
+2015-07-07 15:01:17,756 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:17,776 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='6']/div/span" } 存在.
+2015-07-07 15:01:17,778 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,815 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 开发部2 ]
+2015-07-07 15:01:17,815 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:17,836 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='5']" } 存在.
+2015-07-07 15:01:17,836 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,844 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 3 ]
+2015-07-07 15:01:17,844 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:17,861 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='5']/div/span" } 存在.
+2015-07-07 15:01:17,861 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,878 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 开发部1 ]
+2015-07-07 15:01:17,878 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:17,901 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='4']" } 存在.
+2015-07-07 15:01:17,901 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,907 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 2 ]
+2015-07-07 15:01:17,907 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:17,927 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='4']/div/span" } 存在.
+2015-07-07 15:01:17,927 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,936 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 开发部 ]
+2015-07-07 15:01:17,936 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:17,967 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='3']" } 存在.
+2015-07-07 15:01:17,967 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:17,973 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 4 ]
+2015-07-07 15:01:17,973 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:18,000 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='3']/div/span" } 存在.
+2015-07-07 15:01:18,000 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:18,007 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 测试组2 ]
+2015-07-07 15:01:18,009 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:18,028 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='2']" } 存在.
+2015-07-07 15:01:18,028 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:18,035 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 3 ]
+2015-07-07 15:01:18,035 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:18,059 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='2']/div/span" } 存在.
+2015-07-07 15:01:18,059 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:18,072 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 测试组1 ]
+2015-07-07 15:01:18,073 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:18,107 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='1']" } 存在.
+2015-07-07 15:01:18,107 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:18,114 WebdriverBaseApi.py[line:1008] DEBUG - element's attr: outlinelevel = [ 2 ]
+2015-07-07 15:01:18,114 WebdriverBaseApi.py[line:42] INFO  - method 【getAttributeBy】 运行通过.
+2015-07-07 15:01:18,138 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@treedataindex='1']/div/span" } 存在.
+2015-07-07 15:01:18,138 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:18,147 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 测试部 ]
+2015-07-07 15:01:18,147 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:18,158 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:18,160 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:18,196 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:18,197 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:18,197 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:18,243 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:18,344 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:18,411 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:18,411 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:18,525 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:18,525 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:18,653 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='3']/div/span[text()='产品部1']" } 存在.
+2015-07-07 15:01:18,653 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:18,653 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='3']/div/span[text()='产品部1']" }
+2015-07-07 15:01:18,744 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:20,746 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:20,773 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:20,773 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:20,898 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:20,898 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:21,071 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:21,071 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:21,071 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:21,145 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:21,645 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:21,671 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:21,671 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:21,703 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:21,703 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:21,703 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:21,766 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:21,865 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:21,878 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:21,878 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:21,898 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:21,898 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:21,905 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:21,907 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:21,928 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:21,928 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:21,928 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:21,990 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:22,091 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:22,256 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:22,256 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:22,289 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:22,289 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:22,290 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:22,351 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:22,450 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:22,549 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:22,549 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:22,713 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:22,713 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:22,855 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='2']/div/span[text()='产品部']" } 存在.
+2015-07-07 15:01:22,857 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:22,857 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='2']/div/span[text()='产品部']" }
+2015-07-07 15:01:22,915 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:24,915 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:24,930 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:24,930 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:25,048 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:25,048 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:25,201 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:25,201 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:25,201 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:25,285 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:25,785 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:25,832 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:25,832 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:25,854 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:25,854 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:25,854 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:25,915 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:26,016 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:26,029 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:26,029 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:26,049 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:26,049 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:26,056 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:26,056 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:26,082 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:26,084 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:26,084 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:26,144 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:26,243 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:26,420 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:26,420 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:26,454 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:26,454 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:26,454 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:26,516 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:26,615 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:26,713 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:26,713 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:26,874 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:26,874 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:27,029 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='3']/div/span[text()='开发部3']" } 存在.
+2015-07-07 15:01:27,030 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:27,030 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='3']/div/span[text()='开发部3']" }
+2015-07-07 15:01:27,102 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:29,102 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:29,128 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:29,128 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:29,250 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:29,250 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:29,388 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:29,388 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:29,388 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:29,461 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:29,961 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:29,983 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:29,983 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:30,006 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:30,006 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:30,006 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:30,105 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:30,206 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:30,220 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:30,220 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:30,240 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:30,240 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:30,249 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:30,250 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:30,276 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:30,276 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:30,276 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:30,338 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:30,438 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:30,615 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:30,615 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:30,651 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:30,651 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:30,651 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:30,724 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:30,825 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:30,917 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:30,917 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:31,032 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:31,032 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:31,223 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='3']/div/span[text()='开发部2']" } 存在.
+2015-07-07 15:01:31,224 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:31,224 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='3']/div/span[text()='开发部2']" }
+2015-07-07 15:01:31,280 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:33,280 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:33,308 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:33,309 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:33,427 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:33,428 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:33,594 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:33,594 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:33,594 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:33,671 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:34,171 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:34,197 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:34,197 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:34,223 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:34,224 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:34,224 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:34,285 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:34,384 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:34,398 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:34,398 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:34,417 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:34,417 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:34,424 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:34,424 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:34,447 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:34,447 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:34,447 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:34,510 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:34,611 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:34,759 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:34,759 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:34,793 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:34,793 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:34,793 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:34,857 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:34,957 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:35,052 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:35,052 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:35,207 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:35,207 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:35,368 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='3']/div/span[text()='开发部1']" } 存在.
+2015-07-07 15:01:35,368 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:35,368 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='3']/div/span[text()='开发部1']" }
+2015-07-07 15:01:35,430 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:37,430 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:37,450 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:37,450 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:37,575 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:37,575 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:37,742 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:37,742 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:37,742 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:37,825 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:38,325 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:38,355 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:38,355 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:38,384 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:38,384 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:38,384 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:38,446 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:38,546 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:38,559 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:38,559 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:38,576 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:38,578 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:38,585 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:38,585 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:38,608 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:38,608 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:38,608 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:38,670 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:38,770 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:38,980 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:38,980 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:39,015 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:39,016 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:39,016 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:39,078 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:39,178 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:39,276 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:39,276 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:39,434 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:39,436 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:39,618 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='2']/div/span[text()='开发部']" } 存在.
+2015-07-07 15:01:39,618 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:39,618 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='2']/div/span[text()='开发部']" }
+2015-07-07 15:01:39,678 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:41,678 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:41,707 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:41,707 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:41,829 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:41,829 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:41,983 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:41,983 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:41,983 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:42,056 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:42,558 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:42,582 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:42,582 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:42,602 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:42,602 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:42,604 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:42,664 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:42,765 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:42,801 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:42,802 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:42,829 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:42,831 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:42,841 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:42,841 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:42,865 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:42,865 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:42,867 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:42,927 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:43,028 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:43,177 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:43,177 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:43,214 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:43,214 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:43,214 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:43,289 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:43,390 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:43,483 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:43,483 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:43,635 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:43,635 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:43,788 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='4']/div/span[text()='测试组2']" } 存在.
+2015-07-07 15:01:43,788 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:43,789 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='4']/div/span[text()='测试组2']" }
+2015-07-07 15:01:43,852 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:45,854 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:45,881 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:45,882 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:45,994 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:45,994 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:46,148 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:46,150 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:46,150 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:46,223 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:46,723 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:46,753 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:46,753 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:46,786 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:46,786 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:46,786 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:46,846 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:46,947 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:46,961 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:46,963 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:46,983 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:46,983 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:46,990 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:46,990 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:47,019 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:47,019 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:47,019 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:47,082 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:47,181 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:47,332 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:47,332 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:47,365 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:47,365 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:47,367 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:47,430 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:47,529 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:47,625 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:47,625 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:47,760 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:47,760 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:47,969 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='3']/div/span[text()='测试组1']" } 存在.
+2015-07-07 15:01:47,969 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:47,969 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='3']/div/span[text()='测试组1']" }
+2015-07-07 15:01:48,032 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:50,032 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:50,058 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:50,058 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:50,186 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:50,186 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:50,328 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:50,328 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:50,328 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:50,408 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:50,908 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:50,934 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:50,934 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:50,963 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:50,963 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:50,963 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:51,025 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:51,125 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:51,147 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:51,147 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:51,165 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:51,165 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:51,174 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:51,174 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:51,197 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:51,197 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:51,197 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:51,260 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:51,361 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:51,535 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:51,535 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:51,569 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:51,569 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:51,569 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:51,630 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:51,730 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:51,832 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:51,832 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:51,990 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:51,990 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:52,125 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='2']/div/span[text()='测试部']" } 存在.
+2015-07-07 15:01:52,125 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:52,127 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='2']/div/span[text()='测试部']" }
+2015-07-07 15:01:52,186 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:54,186 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:54,209 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:54,209 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:54,329 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:54,329 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:54,473 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "删除本机构" } 存在.
+2015-07-07 15:01:54,473 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:54,473 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "删除本机构" }
+2015-07-07 15:01:54,604 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:55,104 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:55,128 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:55,128 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:55,161 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" } 存在.
+2015-07-07 15:01:55,161 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:55,161 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[@class='l-dialog-btn-inner'][contains(text(), '是')]" }
+2015-07-07 15:01:55,226 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:55,325 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:55,342 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:55,342 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:01:55,365 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:01:55,365 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:55,374 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 删除成功！ ]
+2015-07-07 15:01:55,374 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:55,400 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:01:55,400 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:55,400 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '删除成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:01:55,463 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:55,562 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:55,562 reset.py[line:62] DEBUG ================================  tearDown...  ================================
+2015-07-07 15:01:55,625 WebdriverBaseApi.py[line:159] DEBUG - refresh
+2015-07-07 15:01:55,627 WebdriverBaseApi.py[line:42] INFO  - method 【refresh】 运行通过.
+2015-07-07 15:01:55,627 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:01:56,095 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'interactive'
+2015-07-07 15:01:56,595 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:01:56,604 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'interactive'
+2015-07-07 15:01:57,104 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:01:57,119 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'complete'
+2015-07-07 15:01:57,220 WebdriverBaseApi.py[line:42] INFO  - method 【waitForPageLoad】 运行通过.
+2015-07-07 15:01:57,243 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:57,243 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:58,345 reset.py[line:57] DEBUG 
+
+============================================================================
+                test_restore_org_to_default: 测试--恢复企业到默认
+============================================================================
+2015-07-07 15:01:58,371 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:58,371 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:58,433 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "组织机构" } 存在.
+2015-07-07 15:01:58,433 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:58,433 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "组织机构" }
+2015-07-07 15:01:58,522 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:01:58,621 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:01:58,713 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:58,714 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:58,828 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:01:58,828 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:59,151 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//td[text()='企业名称：']/following-sibling::td" } 存在.
+2015-07-07 15:01:59,151 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:59,160 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 飞天诚信 ]
+2015-07-07 15:01:59,160 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:01:59,178 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:59,180 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:59,191 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:01:59,193 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:01:59,305 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "leftFunction" }
+2015-07-07 15:01:59,305 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:01:59,443 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//li[@outlinelevel='1']/div/span[text()='飞天诚信']" } 存在.
+2015-07-07 15:01:59,443 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:01:59,443 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//li[@outlinelevel='1']/div/span[text()='飞天诚信']" }
+2015-07-07 15:01:59,509 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:02:01,509 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:02:01,523 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:02:01,523 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:02:01,647 WebdriverBaseApi.py[line:330] DEBUG - switchToFrame{ "08" }
+2015-07-07 15:02:01,647 WebdriverBaseApi.py[line:42] INFO  - method 【switchToFrame】 运行通过.
+2015-07-07 15:02:01,805 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "编辑本机构" } 存在.
+2015-07-07 15:02:01,805 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:01,805 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "编辑本机构" }
+2015-07-07 15:02:01,881 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:02:02,381 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:02:02,424 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "descp" } 存在.
+2015-07-07 15:02:02,424 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:02,520 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "" by_id{ "descp" }
+2015-07-07 15:02:02,520 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:02:02,542 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//*[@id='descp']/ancestor::td/preceding-sibling::td[1]" } 存在.
+2015-07-07 15:02:02,542 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:02,552 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 描述： ]
+2015-07-07 15:02:02,552 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:02:02,581 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "name" } 存在.
+2015-07-07 15:02:02,581 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:02,625 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "default domain" by_id{ "name" }
+2015-07-07 15:02:02,625 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:02:02,647 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//*[@id='name']/ancestor::td/preceding-sibling::td[1]" } 存在.
+2015-07-07 15:02:02,647 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:02,661 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 企业名称*： ]
+2015-07-07 15:02:02,661 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:02:02,680 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "mark" } 存在.
+2015-07-07 15:02:02,680 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:02,723 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "ftsafe" by_id{ "mark" }
+2015-07-07 15:02:02,723 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 15:02:02,750 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//*[@id='mark']/ancestor::td/preceding-sibling::td[1]" } 存在.
+2015-07-07 15:02:02,750 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:02,759 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 企业标识： ]
+2015-07-07 15:02:02,759 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:02:02,789 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "保 存" } 存在.
+2015-07-07 15:02:02,789 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:02,789 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "保 存" }
+2015-07-07 15:02:02,851 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:02:03,351 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:02:03,884 WebdriverBaseApi.py[line:454] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 不存在!!!, try times:0
+2015-07-07 15:02:04,385 WebdriverBaseApi.py[line:48] ERROR - isElementPresent 【运行失败!!!】
+2015-07-07 15:02:04,433 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_link_text{ "保 存" } 存在.
+2015-07-07 15:02:04,433 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:04,433 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_link_text{ "保 存" }
+2015-07-07 15:02:04,493 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:02:04,993 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:02:05,020 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:02:05,020 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:02:05,038 WebdriverBaseApi.py[line:449] DEBUG - isElementPresent by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:02:05,038 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresent】 运行通过.
+2015-07-07 15:02:05,062 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[@class='l-dialog-content']" } 存在.
+2015-07-07 15:02:05,062 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:05,072 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 修改成功！ ]
+2015-07-07 15:02:05,072 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
+2015-07-07 15:02:05,096 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_xpath{ "//div[contains(text(), '修改成功！')]/following::div[contains(text(), '确')]" } 存在.
+2015-07-07 15:02:05,096 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 15:02:05,096 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_xpath{ "//div[contains(text(), '修改成功！')]/following::div[contains(text(), '确')]" }
+2015-07-07 15:02:05,157 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 15:02:05,257 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 15:02:05,257 reset.py[line:62] DEBUG ================================  tearDown...  ================================
+2015-07-07 15:02:05,292 WebdriverBaseApi.py[line:159] DEBUG - refresh
+2015-07-07 15:02:05,292 WebdriverBaseApi.py[line:42] INFO  - method 【refresh】 运行通过.
+2015-07-07 15:02:05,292 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:02:05,763 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'interactive'
+2015-07-07 15:02:06,263 WebdriverBaseApi.py[line:727] DEBUG - jsReturner{ "return document.readyState;" }
+2015-07-07 15:02:06,273 WebdriverBaseApi.py[line:1430] DEBUG execute_script[ 'return document.readyState;' ] return 'complete'
+2015-07-07 15:02:06,372 WebdriverBaseApi.py[line:42] INFO  - method 【waitForPageLoad】 运行通过.
+2015-07-07 15:02:06,401 WebdriverBaseApi.py[line:359] DEBUG - switchToDefaultFrame
+2015-07-07 15:02:06,401 WebdriverBaseApi.py[line:42] INFO  - method 【switchToDefaultFrame】 运行通过.
+2015-07-07 15:02:07,111 WebdriverBaseApi.py[line:140] DEBUG - quitweb browser
+2015-07-07 15:02:07,111 WebdriverBaseApi.py[line:42] INFO  - method 【quitweb】 运行通过.
+2015-07-07 15:02:07,111 reset.py[line:1036] DEBUG ***** 已关闭页面 *****

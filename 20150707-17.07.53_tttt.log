@@ -1,0 +1,16 @@
+2015-07-07 17:07:58,049 WebdriverBaseApi.py[line:93] DEBUG - get(https://www.baidu.com)
+2015-07-07 17:07:58,049 WebdriverBaseApi.py[line:42] INFO  - method 【get】 运行通过.
+2015-07-07 17:07:58,115 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "kw" } 存在.
+2015-07-07 17:07:58,115 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 17:07:58,265 WebdriverBaseApi.py[line:859] DEBUG - sendKeysBy "selenium2" by_id{ "kw" }
+2015-07-07 17:07:58,265 WebdriverBaseApi.py[line:42] INFO  - method 【sendKeysBy】 运行通过.
+2015-07-07 17:07:58,963 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_id{ "su" } 存在.
+2015-07-07 17:07:58,963 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 17:07:58,963 WebdriverBaseApi.py[line:764] DEBUG - clickBy by_id{ "su" }
+2015-07-07 17:07:59,125 WebdriverBaseApi.py[line:768] DEBUG element clicked.
+2015-07-07 17:07:59,125 WebdriverBaseApi.py[line:42] INFO  - method 【clickBy】 运行通过.
+2015-07-07 17:07:59,348 WebdriverBaseApi.py[line:515] DEBUG - isElementPresentTuple by_class_name{ "nums" } 存在.
+2015-07-07 17:07:59,348 WebdriverBaseApi.py[line:42] INFO  - method 【isElementPresentTuple】 运行通过.
+2015-07-07 17:07:59,362 WebdriverBaseApi.py[line:976] DEBUG - getTextBy[ 搜索工具
+百度为您找到相关结果约101,000个 ]
+2015-07-07 17:07:59,362 WebdriverBaseApi.py[line:42] INFO  - method 【getTextBy】 运行通过.
